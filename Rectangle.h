@@ -15,4 +15,6 @@ public:
     double getLength() const;
     double getWidth() const;
     double getArea() const;
-}
+};
+
+#endif

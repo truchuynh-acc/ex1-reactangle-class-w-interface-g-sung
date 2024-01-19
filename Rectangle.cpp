@@ -7,9 +7,9 @@ Rectangle::Rectangle()
     width = 1.0;
 }
 
-void Rectangle::setParameters(double newLength, double newWidth)
+bool Rectangle::setParameters(double newLength, double newWidth)
 {
-    if (newLength && newWidth > 0.0)
+    if (newLength > 0.0 && newWidth > 0.0)
     {
         length = newLength;
         width = newWidth;
