@@ -1,11 +1,11 @@
 /**Driver Code*/
 
 /**
-Programmer: Eugene 
+Programmer: Eugene Song
 Project number: 1
-Project Desc: Quadratic Expression class
+Project Desc: RECTANGLE
 Course: COSC-2436-007 (92905) III Data Structures
-Date: 
+Date: 25JAN2024
 */
 
 #include <iostream>
