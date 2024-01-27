@@ -1,4 +1,5 @@
-/**Rectangle.cpp Code*/
+/**Rectangle.cpp Code, final version */
+
 #include "Rectangle.h"
 
 Rectangle::Rectangle()
