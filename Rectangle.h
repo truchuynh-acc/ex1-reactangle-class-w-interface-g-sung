@@ -1,4 +1,4 @@
-/**Rectangle.h Code*/
+/**Rectangle.h Code, final version */
 
 #ifndef RECTANGLE_
 #define RECTANGLE_
